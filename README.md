@@ -37,7 +37,7 @@ In order to write a clean code we used design patterns such as:
 Adding the free hand drawing feature, but we are still not sure how to do it
 
 # Credits
-Shereen Mostafa: https://github.com/ShereenMabrouk?fbclid=IwAR01HPL_bsGcDyTYh9XI63OFpzMqRp6nqnQYZNujGUvhhG3TThmV7Kbe10g<br>
+Shereen Mostafa: https://github.com/ShereenMabrouk<br>
 Menna Mohamed: https://github.com/menna-anwer <br>
-Mazen Yasser: <br>
+Mazen Yasser: https://github.com/74Mazen74<br>
 Mohamed Ashraf: https://github.com/mohamedaly72001 
