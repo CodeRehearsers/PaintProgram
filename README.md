@@ -1,4 +1,4 @@
-# PaintProgram
+# Paint Program
 
 # Description
 The program used Java programming language where we used the swing GUI due to its online available resources, and its easy building which was great for the limited time we had for the project.
